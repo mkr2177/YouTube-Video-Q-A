@@ -50,3 +50,12 @@ This is a **Retrieval-Augmented Generation (RAG)** based Streamlit app that allo
 8. Answer is returned and displayed in the UI
 
 ---
+## 📸 Demo Screenshots
+
+### 🖼️ App Preview
+
+![Screenshot 1](Screenshot%20(1371).png)
+![Screenshot 2](Screenshot%20(1372).png)
+![Screenshot 3](Screenshot%20(1373).png)
+![Screenshot 4](Screenshot%20(1374).png)
+![Screenshot 5](Screenshot%20(1375).png)
